@@ -1,4 +1,4 @@
 ChristinaLK
 -----------
 
-Christina Koch's website.  Coded from scratch, hence slightly hacky.  
+[Christina Koch's website](http://christinalk.github.io/).  Coded from scratch, hence slightly hacky.  
