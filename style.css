@@ -35,30 +35,32 @@ div.img
 {
 text-align:right;
 width:20%;
-float:right;
+float:left;
 }
 
 div.name
 {
-text-align:right;
-margin-right:32%;
+text-align:left;
+margin-left:25%;
 }
 
 div.wrapper
 {
-width:12%;
-float:right;
-text-align:center;
+width:90%;
+text-align:left;
+margin-left:25%;
 }
 
 div.menu
 {
-clear:both;
+/*clear:both;*/
+float:left;
 background-color:transparent;
 padding:5px;
 vertical-align:center;
 text-align:center;
 margin-top:10px;
+/*margin-left:32%;*/
 
 background-image: url('img/red_dot.png');
 background-repeat:no-repeat; 
@@ -80,10 +82,12 @@ font-size:250%;
 
 div.content
 {
+clear:both;
 padding:20px;
 width:80%;
 vertical-align:top;
 text-align:left;
+margin-left:10%
 }
 
 /*link styling*/
