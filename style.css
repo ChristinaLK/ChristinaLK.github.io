@@ -2,12 +2,12 @@
 body
 {
 font-family:Calibri, Helvetica, sans-serif; /*cssfontstack.com*/ /*http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html*/
-background-color:#ffffff;
 background:url('img/orb-transparent.jpg');
 background-repeat:no-repeat; 
 background-attachment: fixed;
 background-position:left top; 
 background-size:cover;
+background-color:#ffffff;
 }
 /*like calibri, tahoma, verdana, geneva*/
 
@@ -87,7 +87,7 @@ padding:20px;
 width:80%;
 vertical-align:top;
 text-align:left;
-margin-left:10%
+/*margin-left:10%*/
 }
 
 /*link styling*/
