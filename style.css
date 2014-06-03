@@ -3,11 +3,11 @@ body
 {
 font-family:Calibri, Helvetica, sans-serif; /*cssfontstack.com*/ /*http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html*/
 background-color:#ffffff;
-/*background:url('img/circles.jpg');
+background:url('img/orb.jpg');
 background-repeat:no-repeat; 
-/*background-attachment: fixed;
+background-attachment: fixed;
 background-position:left top; 
-background-size:cover;*/
+background-size:cover;
 }
 /*like calibri, tahoma, verdana, geneva*/
 
@@ -90,8 +90,8 @@ text-align:left;
 
 a {text-decoration: none;}
 
-a:link {color:#000000;}      /* unvisited link */
-a:visited {color:#000000;}  /* visited link */
+a:link {color:#600000;}      /* unvisited link */
+a:visited {color:#600000;}  /* visited link */
 a:hover {color:#808080;}  /* mouse over link */
 a:active {color:#808080;}  /* selected link */
 
