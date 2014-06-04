@@ -1,0 +1,155 @@
+
+body
+{
+font-family:Calibri, Helvetica, sans-serif; /*cssfontstack.com*/ /*http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html*/
+background:url("img/orb-transparent.JPG");
+background-repeat:no-repeat; 
+background-attachment: fixed;
+background-position:left top; 
+background-size:cover;
+/*background-color:#ffffff;*/
+}
+/*like calibri, tahoma, verdana, geneva*/
+
+li { padding: 2; }
+
+hr
+{
+border:none;
+ height: 3px;
+ color: #333; 
+ background-color: #333;
+}
+
+/*layout/framing attriubtes*/
+
+div.frame
+{
+background-color:transparent;
+width:90%;
+padding:50px;
+vertical-align:top
+}
+
+div.img
+{
+text-align:right;
+width:20%;
+float:left;
+}
+
+div.name
+{
+text-align:left;
+margin-left:25%;
+}
+
+div.wrapper
+{
+width:90%;
+text-align:left;
+margin-left:25%;
+}
+
+div.menu
+{
+/*clear:both;*/
+float:left;
+background-color:transparent;
+padding:5px;
+vertical-align:center;
+text-align:center;
+margin-top:10px;
+/*margin-left:32%;*/
+
+background-image: url('img/red_dot.png');
+background-repeat:no-repeat; 
+background-position:center center; 
+background-size:contain;
+
+}
+
+div.title
+{
+clear:both;
+padding:5px;
+width:100%;
+vertical-align:top;
+text-align:left;
+font-weight:bold;
+font-size:250%;
+}
+
+div.content
+{
+clear:both;
+padding:20px;
+width:80%;
+vertical-align:top;
+text-align:left;
+/*margin-left:10%*/
+}
+
+/*link styling*/
+
+a {text-decoration: none;}
+
+a:link {color:#600000;}      /* unvisited link */
+a:visited {color:#600000;}  /* visited link */
+a:hover {color:#787878;}  /* mouse over link */
+a:active {color:#787878;}  /* selected link */
+
+
+a.button:link {color:#000000;}      /* unvisited link */
+a.button:visited {color:#000000;}  /* visited link */
+a.button:hover {color:#787878;}  /* mouse over link */
+a.button:active {color:#787878;}  /* selected link */
+
+a.button
+{
+font-size:110%;
+font-weight:bold;
+}
+
+
+/*text styling*/
+
+h1
+{
+font-weight:bold;
+font-size:300%;
+margin-bottom:-1;
+}
+
+h2
+{
+color:#787878;
+font-size:120%;
+}
+
+h3
+{
+font-weight:bold;
+font-size:120%;
+color:#787878;
+}
+
+
+p.whitetext
+{
+font-size:120%;
+font-weight:normal;
+}
+
+p.whitebold
+{
+font-size:120%;
+font-weight:bold;
+}
+
+p.contact
+{
+color:#fff;
+text-align:right;
+font-size:90%;
+}
