@@ -25,7 +25,7 @@ border:none;
 
 div.frame
 {
-background-color:transparent;
+/*background-color:transparent;*/
 width:90%;
 padding:50px;
 vertical-align:top
@@ -87,6 +87,7 @@ padding:20px;
 width:80%;
 vertical-align:top;
 text-align:left;
+background-color:#000000;
 /*margin-left:10%*/
 }
 
