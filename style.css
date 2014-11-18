@@ -2,12 +2,12 @@
 body
 {
 font-family:Calibri, Helvetica, sans-serif; /*cssfontstack.com*/ /*http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html*/
-background:url("img/orb-transparent.JPG") no-repeat fixed left top cover;
+/*background:url("img/orb-transparent.JPG") no-repeat fixed left top cover;*/
 /*background-repeat:no-repeat; 
 background-attachment: fixed;
 background-position:left top; 
 background-size:cover;*/
-/*background-color:#ffffff;*/
+background-color:#ffffff;
 }
 /*like calibri, tahoma, verdana, geneva*/
 
@@ -25,7 +25,6 @@ border:none;
 
 div.frame
 {
-/*background-color:transparent;*/
 width:90%;
 padding:50px;
 vertical-align:top
@@ -55,7 +54,6 @@ div.menu
 {
 /*clear:both;*/
 float:left;
-background-color:transparent;
 padding:5px;
 vertical-align:center;
 text-align:center;
@@ -85,9 +83,10 @@ div.content
 clear:both;
 padding:20px;
 width:80%;
+height:auto;
 vertical-align:top;
 text-align:left;
-background-color:#000000;
+background-color:#ffffff;
 /*margin-left:10%*/
 }
 
