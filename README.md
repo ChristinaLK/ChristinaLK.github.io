@@ -1,6 +1,9 @@
 ChristinaLK
 -----------
 
-[Christina Koch's website](http://christinalk.github.io/).  Coded from scratch, hence slightly hacky.  
+[Christina Koch's website](http://christinalk.github.io/).  
 
-Inspired by @jooolia's website http://www.juliagustavsen.com/ and cleaned up thanks to suggestions from @BernhardKonrad.  
+Layout inspired by:
+* http://mattgidden.com/
+* http://www.juliagustavsen.com/
+* http://andy-crouch.com/
