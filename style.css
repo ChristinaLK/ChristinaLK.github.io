@@ -39,6 +39,7 @@ div.section{
 	padding:50px;
 	clear:both;
 	text-align:center;
+	overflow: hidden
 }
 
 div.img{
@@ -48,6 +49,7 @@ div.img{
 	float:left;
 	text-align:center;
 	vertical-align:top;
+	overflow: hidden
 
 }
 
@@ -58,6 +60,7 @@ div.text{
 	text-align:left;
 	float:left;
 	vertical-align:top;
+	overflow: hidden
 
 }
 
@@ -67,6 +70,7 @@ div.sep{
 	width:auto;
 	padding:25px;
 	margin: 0;
+	overflow: hidden
 	}
 
 /*page-wide styling*/
