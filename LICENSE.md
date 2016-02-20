@@ -6,12 +6,12 @@ The following files are all rights reserved:
 
 The following files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> 
 
-* `files/anxiety_comic_christinaLK.pdf`
-* `img/anxiety_comic_christinaLK_1.png`
-* `img/anxiety_comic_christinaLK_2.png`
-* `img/anxiety_comic_christinaLK_3.png`
-* `img/anxiety_comic_christinaLK_4.png`
-* `img/anxiety_comic_christinaLK_5.png`
+* `files/anxiety_comic.pdf`
+* `img/anxiety_comic_1.jpg`
+* `img/anxiety_comic_2.jpg`
+* `img/anxiety_comic_3.jpg`
+* `img/anxiety_comic_4.jpg`
+* `img/anxiety_comic_5.jpg`
 
 The following files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 * The source code for this website:
