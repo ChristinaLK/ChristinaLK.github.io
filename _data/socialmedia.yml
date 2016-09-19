@@ -1,0 +1,34 @@
+- name: here
+  url: https://christinalk.github.io
+  class: icon-home
+  title: "This page"
+  
+- name: UW-Madison
+  url: http://wid.wisc.edu/profile/christina-koch/
+  class: icon-lab-flask
+  title: "Work profile"
+
+- name: Blog
+  url: https://christinalk.github.io/blog/
+  class: icon-pencil
+  title: "Blog"
+
+- name: Twitter
+  url: http://twitter.com/_christinalk
+  class: icon-twitter
+  title: "Tweets"
+
+- name: GitHub
+  url: http://github.com/christinalk
+  class: icon-github
+  title: "Code"
+
+- name: LinkedIn
+  url: www.linkedin.com/in/christina-koch-53ba9b6a
+  class: icon-linkedin
+  title: "LinkedIn"
+  
+# - name: Email
+#  url: mailto:christinakconnect@gmail.com
+#  class: icon-mail
+#  title: "Email"
