@@ -12,16 +12,34 @@ I am a certified:
 
 I am available, on a limited basis, to offer training on the following topics:
 
-{% include tile.html title="The Tidyverse" logo="hex-tidyverse.png" curriculum="Introduction to the Tidyverse" url="https://github.com/cwickham/r_intro_bc_stats" %}
+{% include tile.html title="The Tidyverse" logo="hex-tidyverse.png" %}
 
-{% include tile.html title="Git and Github" logo="Git-Logo-2Color.png" curriculum="Introduction to Git" url="http://swcarpentry.github.io/git-novice/" %}
+<a href="https://github.com/cwickham/r_intro_bc_stats">Introduction to the Tidyverse</a>
 
-{% include tile.html title="Bash Shell" logo="Gnu-bash-logo.svg.png" curriculum="Introduction to the Shell" url="http://swcarpentry.github.io/shell-novice/" %}
+{% include tile_close.html %}
 
-{% include tile.html title="Basic Data Munging and Analysis" logo="hex-tidyverse.png" curriculum="Data Carpentry Ecology" url="https://datacarpentry.org/lessons/#ecology-workshop" %}
+{% include tile.html title="Git and Github" logo="Git-Logo-2Color.png" %}
+<a href="http://swcarpentry.github.io/git-novice/">Introduction to Git</a>
 
-{% include tile.html title="Train the Trainers -- How to Teach" logo="Carpentries.jpg" curriculum="Carpentries Instructor Training" url="https://carpentries.github.io/instructor-training/"
-curric2 = "Teaching Tech Togther" url2 = "http://teachtogether.tech/" %}
+{% include tile_close.html %}
+
+{% include tile.html title="Bash Shell" logo="Gnu-bash-logo.svg.png" %}
+<a href="http://swcarpentry.github.io/shell-novice/">Introduction to the Shell</a>
+
+{% include tile_close.html %}
+
+{% include tile.html title="Basic Data Munging and Analysis" logo="hex-tidyverse.png" %}
+<a href="https://datacarpentry.org/lessons/#ecology-workshop">Data Carpentry Ecology</a>
+
+{% include tile_close.html %}
+
+{% include tile.html title="Train the Trainers -- How to Teach" logo="Carpentries.jpg" %}
+
+<a href="https://carpentries.github.io/instructor-training">Carpentries Instructor Training</a>,
+<a href="http://teachtogether.tech/">Teaching Tech Together</a>
+
+{% include tile_close.html %}
+
 
 <br>
 <center><img src="../images/workshop.JPG" alt="A row of open laptops with people typing, viewed from the side" width="90%"></center>
