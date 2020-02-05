@@ -12,27 +12,16 @@ I am a certified:
 
 I am available, on a limited basis, to offer training on the following topics:
 
-### The Tidyverse
+{% include tile.html title="The Tidyverse" logo="hex-tidyverse.png" curriculum="Introduction to the Tidyverse" url="https://github.com/cwickham/r_intro_bc_stats" %}
 
-Sample Curriculum: [Introduction to the Tidyverse][tidyverse]
+{% include tile.html title="Git and Github" logo="Git-Logo-2Color.png" curriculum="Introduction to Git" url="http://swcarpentry.github.io/git-novice/" %}
 
-### Git and Github
+{% include tile.html title="Bash Shell" logo="Gnu-bash-logo.svg.png" curriculum="Introduction to the Shell" url="http://swcarpentry.github.io/shell-novice/" %}
 
-Sample Curriculum: [Introduction to Git][git-novice]
+{% include tile.html title="Basic Data Munging and Analysis" logo="hex-tidyverse.png" curriculum="Data Carpentry Ecology" url="https://datacarpentry.org/lessons/#ecology-workshop" %}
 
-### Bash Shell
-
-Sample Curriculum: [Introduction to the Shell][shell-novice]
-
-### Basic Data Munging and Analysis
-
-Sample Curriculum: [Data Carpentry Ecology][dc-ecology]
-
-### Train the Trainers -- How to Teach
-
-Sample Curriculum: [Carpentries Instructor Training][carpentries-it]
-
-Sample Curriculum: [Teaching Tech Together][greg-ttt]
+{% include tile.html title="Train the Trainers -- How to Teach" logo="Carpentries.jpg" curriculum="Carpentries Instructor Training" url="https://carpentries.github.io/instructor-training/"
+curric2 = "Teaching Tech Togther" url2 = "http://teachtogether.tech/" %}
 
 <br>
 <center><img src="../images/workshop.JPG" alt="A row of open laptops with people typing, viewed from the side" width="90%"></center>
@@ -47,10 +36,3 @@ also email me directly at the address below.
 [rstudio]: https://education.rstudio.com/trainers/
 [instructor]: https://carpentries.org/instructors/
 [trainer]: https://carpentries.org/trainers/
-
-[tidyverse]: https://github.com/cwickham/r_intro_bc_stats
-[git-novice]: http://swcarpentry.github.io/git-novice/
-[shell-novice]: http://swcarpentry.github.io/shell-novice/
-[dc-ecology]: https://datacarpentry.org/lessons/#ecology-workshop
-[carpentries-it]: https://carpentries.github.io/instructor-training/
-[greg-ttt]: http://teachtogether.tech/
