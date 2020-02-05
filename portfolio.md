@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Portfolio
+title: Selected Research/Academic Portfolio
 permalink: /portfolio/
 ---
 
@@ -20,7 +20,7 @@ permalink: /portfolio/
 * [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 
 <br>
-<center><img src="../images/workshop.JPG" alt="A row of open laptops with people typing, viewed from the side" width="90%"></center>
+<center><img src="../images/type_wall.jpg" alt="A wall covered with wooden letterpress printing blocks of different fonts and sizes" width="90%"></center>
 
 ### Papers
 
@@ -31,8 +31,3 @@ with Carmen Bruni, Bernhard Konrad, Michael Lindstrom, Iain Moyles, and Will Tho
 * [Forbidden Configurations and Product Constructions](http://link.springer.com/article/10.1007/s00373-013-1365-1),
 with Richard Anstee, Attila Sali and Miguel Raggi.  *Graphs and Combinatorics*, 30(6), 2014.
 * [Obstacle Numbers of Graphs](http://link.springer.com/article/10.1007/s00454-009-9233-8) with Hannah Alpert and Josh Laison.  *Discrete and Computational Geometry*, 44(1), 2010.
-
-### Code
-
-* [Algorithms Seminar](https://github.com/ChristinaLK/algorithms-seminar)
-* [Average Location Over Time](https://github.com/ChristinaLK/avg_location)

@@ -4,19 +4,6 @@ title: Experience
 permalink: /experience/
 ---
 
-### How am I effective?  I can...
-
-* Read and assimilate new information quickly, identify patterns, connect ideas
-* Summarize information, write clearly
-* Design curricula/lessons/workshops, prepare talks
-* Teach in both workshop-style and classroom settings
-* Facilitate discussions and meetings
-* Organize community events and workshops
-* One-on-one tutoring and consulting
-
-<br>
-<center><img src="../images/header_nametag.jpeg" alt="work nameplace with a picture of a woman, her name and title and five adjectives: curious, philosophical, sanguine, organizer, bibliophile" width="90%"></center>
-
 ### Selected Experience
 
 * [Center For High Throughput Computing][chtc], University of Wisconsin - Madison (Madison, WI)
@@ -35,6 +22,9 @@ permalink: /experience/
 * [St. Olaf College][olaf] (Northfield, MN)
   * The classic liberal arts smorgasboard: music, study abroad (Budapest, Hungary),
   great books, math, and research.
+
+  <br>
+  <center><img src="../images/header_nametag.jpeg" alt="work nameplace with a picture of a woman, her name and title and five adjectives: curious, philosophical, sanguine, organizer, bibliophile" width="90%"></center>
 
 ### Tools
 
